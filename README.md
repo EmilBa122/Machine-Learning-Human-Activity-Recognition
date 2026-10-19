@@ -3,10 +3,10 @@
 ## My Dataset
 The `data.zip` file in this repository contains my own personal recordings collected according to the project specifications
 
-List of dependencies:
+List of dependencies:<br>
 pip install umap-learn
 
-Other libraries I use that are already pre-installed in Google Colab:
+Other libraries I use that are already pre-installed in Google Colab:<br>
 numpy
 pandas
 scipy
