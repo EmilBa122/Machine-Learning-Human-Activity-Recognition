@@ -1,5 +1,8 @@
 # Machine Learning Human Activity Recognition Project
 
+## My Dataset
+The `data.zip` file in this repository contains my own personal recordings collected according to the project specifications
+
 List of dependencies:
 pip install umap-learn
 
