@@ -7,15 +7,15 @@ List of dependencies:<br>
 pip install umap-learn
 
 Other libraries I use that are already pre-installed in Google Colab:<br>
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
-seaborn
-os
-random
-zipfile
+numpy<br>
+pandas<br>
+scipy<br>
+scikit-learn<br>
+matplotlib<br>
+seaborn<br>
+os<br>
+random<br>
+zipfile<br>
 
 
 Estimated running time = 30 - 35 minutes
