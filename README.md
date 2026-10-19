@@ -1,5 +1,8 @@
 # Machine Learning Human Activity Recognition Project
 
+## Assignment Description
+Human Activity Recognition from accelerometer data using five classical classification algorithms (k-NN, Naive Bayes, Logistic Regression, SVM, Decision Tree)<br>
+
 ## My Dataset
 The `data.zip` file in this repository contains my own personal recordings collected according to the project specifications
 
