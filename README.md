@@ -13,4 +13,4 @@ pip install umap-learn
 
 The notebook takes approximately 30-35 minutes to run on Google Colab with a Tesla T4 GPU
 
-Estimated running time = 30 - 35 minutes
+
